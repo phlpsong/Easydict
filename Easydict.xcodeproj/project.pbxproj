@@ -1995,6 +1995,7 @@
 				"zh-Hans",
 				"zh-Hant",
 				en_CA,
+				"zh-Hant",
 			);
 			mainGroup = C99EEB0F2385796700FEE666;
 			productRefGroup = C99EEB192385796700FEE666 /* Products */;
