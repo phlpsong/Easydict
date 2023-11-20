@@ -11,6 +11,12 @@
             "value" : "Text Replacement"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text Replacement"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26,6 +32,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Easydict"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Easydict"
           }
         },
@@ -53,6 +65,12 @@
             "value" : "Customize Toolbar…"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Customize Toolbar…"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -68,6 +86,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Ligatures"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Ligatures"
           }
         },
@@ -89,6 +113,12 @@
             "value" : "Show Fonts"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Fonts"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -104,6 +134,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Play Sound"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Play Sound"
           }
         },
@@ -125,6 +161,12 @@
             "value" : "Play"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Play"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -140,6 +182,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Find Previous"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Find Previous"
           }
         },
@@ -160,6 +208,12 @@
             "state" : "new",
             "value" : "Copy First Translated Text"
           }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy First Translated Text"
+          }
         }
       }
     },
@@ -170,6 +224,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Copy First Result"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Copy First Result"
           }
         }
@@ -185,6 +245,12 @@
             "value" : "Use Default"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Default"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -197,6 +263,12 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"截图翻译\"; ObjectID = \"2TG-8C-8RM\";",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Screenshot Translate"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Screenshot Translate"
@@ -226,6 +298,12 @@
             "value" : "Show Toolbar"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Toolbar"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -241,6 +319,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Clear All"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Clear All"
           }
         },
@@ -262,6 +346,12 @@
             "value" : "Paste Style"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paste Style"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -277,6 +367,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Services"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Services"
           }
         },
@@ -298,6 +394,12 @@
             "value" : "Check Spelling While Typing"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check Spelling While Typing"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -313,6 +415,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "View"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "View"
           }
         },
@@ -334,6 +442,12 @@
             "value" : "Window"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Window"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -349,6 +463,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "\tRight to Left"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "\tRight to Left"
           }
         },
@@ -370,6 +490,12 @@
             "value" : "Hide Easydict"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide Easydict"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -385,6 +511,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Find"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Find"
           }
         },
@@ -406,6 +538,12 @@
             "value" : "Paste Ruler"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paste Ruler"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -421,6 +559,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "\tDefault"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "\tDefault"
           }
         },
@@ -442,6 +586,12 @@
             "value" : "Jump to Selection"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jump to Selection"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -457,6 +607,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Check Grammar With Spelling"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Check Grammar With Spelling"
           }
         },
@@ -478,6 +634,12 @@
             "value" : "File"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -496,6 +658,12 @@
             "value" : "Find"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -508,6 +676,12 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"输入翻译\"; ObjectID = \"AWf-Ci-7QE\";",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Input Translate"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Input Translate"
@@ -537,6 +711,12 @@
             "value" : "Font"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Font"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -552,6 +732,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Main Menu"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Main Menu"
           }
         },
@@ -573,6 +759,12 @@
             "value" : "Show Colors"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Colours"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -588,6 +780,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Show Substitutions"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Show Substitutions"
           }
         },
@@ -609,6 +807,12 @@
             "value" : "Use Default"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Default"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -621,6 +825,12 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"静默截图 OCR\"; ObjectID = \"bGs-JX-JVH\"; Note = \"slient screen ocr\";",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Silent Screenshot OCR"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Silent Screenshot OCR"
@@ -650,6 +860,12 @@
             "value" : "Use Default"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Default"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -665,6 +881,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Show Sidebar"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Show Sidebar"
           }
         },
@@ -686,6 +908,12 @@
             "value" : "Kern"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kern"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -701,6 +929,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Quit Easydict"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Quit Easydict"
           }
         },
@@ -722,6 +956,12 @@
             "value" : "Delete"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -737,6 +977,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Spelling"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Spelling"
           }
         },
@@ -758,6 +1004,12 @@
             "value" : "Speech"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Speech"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -773,6 +1025,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Window"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Window"
           }
         },
@@ -794,6 +1052,12 @@
             "value" : "Toggle Translation Languages"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toggle Translation Languages"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -809,6 +1073,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Toggle"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Toggle"
           }
         },
@@ -830,6 +1100,12 @@
             "value" : "Start Speaking"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start Speaking"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -845,6 +1121,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Undo"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Undo"
           }
         },
@@ -866,6 +1148,12 @@
             "value" : "Hide Window"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide Window"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -881,6 +1169,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Hide"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Hide"
           }
         },
@@ -902,6 +1196,12 @@
             "value" : "Capitalize"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Capitalize"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -914,6 +1214,12 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"日志目录\"; ObjectID = \"Dmt-kv-cPX\";",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log Directory"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Log Directory"
@@ -943,6 +1249,12 @@
             "value" : "File"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -958,6 +1270,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Enter Full Screen"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Enter Full Screen"
           }
         },
@@ -979,6 +1297,12 @@
             "value" : "Show Ruler"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Ruler"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -994,6 +1318,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Shortcut"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Shortcut"
           }
         },
@@ -1015,6 +1345,12 @@
             "value" : "Format"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Format"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1030,6 +1366,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Smart Dashes"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Smart Dashes"
           }
         },
@@ -1051,6 +1393,12 @@
             "value" : "Use None"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use None"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1066,6 +1414,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Copy Style"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Copy Style"
           }
         },
@@ -1087,6 +1441,12 @@
             "value" : "Edit"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1102,6 +1462,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Clear Menu"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Clear Menu"
           }
         },
@@ -1123,6 +1489,12 @@
             "value" : "Italic"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Italic"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1135,6 +1507,12 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"设置...\"; ObjectID = \"Fzj-Rh-cL0\";",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings..."
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Settings..."
@@ -1164,6 +1542,12 @@
             "value" : "Pin Window"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pin Window"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1179,6 +1563,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Pin"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Pin"
           }
         },
@@ -1200,6 +1590,12 @@
             "value" : "Copy"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1218,6 +1614,12 @@
             "value" : "Subscript"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Subscript"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1230,6 +1632,12 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"检查更新\"; ObjectID = \"GQ2-WA-9QB\";",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check for Updates"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Check for Updates"
@@ -1259,6 +1667,12 @@
             "value" : "Redo"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Redo"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1274,6 +1688,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Find and Replace…"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Find and Replace…"
           }
         },
@@ -1295,6 +1715,12 @@
             "value" : "Smart Links"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smart Links"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1310,6 +1736,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Transformations"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Transformations"
           }
         },
@@ -1331,6 +1763,12 @@
             "value" : "\tDefault"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\tDefault"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1346,6 +1784,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Show Spelling and Grammar"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Show Spelling and Grammar"
           }
         },
@@ -1367,6 +1811,12 @@
             "value" : "Superscript"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Superscript"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1382,6 +1832,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Lower"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Lower"
           }
         },
@@ -1403,6 +1859,12 @@
             "value" : "Cut"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cut"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1415,6 +1877,12 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"帮助\"; ObjectID = \"ICB-w8-IqK\";",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Help"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Help"
@@ -1444,6 +1912,12 @@
             "value" : "Find Next"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find Next"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1459,6 +1933,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Smaller"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Smaller"
           }
         },
@@ -1480,6 +1960,12 @@
             "value" : "Kern"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kern"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1498,6 +1984,12 @@
             "value" : "Spelling and Grammar"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spelling and Grammar"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1510,6 +2002,12 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"退出\"; ObjectID = \"JZ0-yT-1tw\";",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quit"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quit"
@@ -1538,6 +2036,12 @@
             "state" : "new",
             "value" : "Open in Eudic"
           }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open in Eudic"
+          }
         }
       }
     },
@@ -1550,6 +2054,12 @@
             "state" : "new",
             "value" : "Apple Dictionary"
           }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Dictionary"
+          }
         }
       }
     },
@@ -1560,6 +2070,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Baseline"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Baseline"
           }
         },
@@ -1581,6 +2097,12 @@
             "value" : "Smart Copy/Paste"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smart Copy/Paste"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1596,6 +2118,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Writing Direction"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Writing Direction"
           }
         },
@@ -1617,6 +2145,12 @@
             "value" : "Substitutions"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Substitutions"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1632,6 +2166,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Format"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Format"
           }
         },
@@ -1652,6 +2192,12 @@
             "state" : "new",
             "value" : "Copy Query Text"
           }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy Query Text"
+          }
         }
       }
     },
@@ -1664,6 +2210,12 @@
             "state" : "new",
             "value" : "Copy"
           }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy"
+          }
         }
       }
     },
@@ -1671,6 +2223,12 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"划词翻译\"; ObjectID = \"lUI-Zn-Bwr\";",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select Translate"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Select Translate"
@@ -1700,6 +2258,12 @@
             "value" : "Paste"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paste"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1715,6 +2279,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Easydict"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Easydict"
           }
         },
@@ -1742,6 +2312,12 @@
             "value" : "Smart Quotes"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smart Quotes"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1757,6 +2333,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Open…"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Open…"
           }
         },
@@ -1778,6 +2360,12 @@
             "value" : "Font"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Font"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1796,6 +2384,12 @@
             "value" : "Center"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Centre"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1811,6 +2405,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Justify"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Justify"
           }
         },
@@ -1832,6 +2432,12 @@
             "value" : "Foucs Input"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Foucs Input"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1847,6 +2453,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Focus"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Focus"
           }
         },
@@ -1868,6 +2480,12 @@
             "value" : "Ligatures"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ligatures"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1883,6 +2501,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "\tLeft to Right"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "\tLeft to Right"
           }
         },
@@ -1904,6 +2528,12 @@
             "value" : "Use All"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use All"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1919,6 +2549,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Paragraph"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Paragraph"
           }
         },
@@ -1940,6 +2576,12 @@
             "value" : "Open Recent"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Recent"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1955,6 +2597,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "About Easydict"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "About Easydict"
           }
         },
@@ -1976,6 +2624,12 @@
             "value" : "Stop Speaking"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stop Speaking"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1991,6 +2645,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Underline"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Underline"
           }
         },
@@ -2012,6 +2672,12 @@
             "value" : "Copy Ruler"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy Ruler"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2027,6 +2693,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Retry Query"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Retry Query"
           }
         },
@@ -2048,6 +2720,12 @@
             "value" : "Retry"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retry"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2063,6 +2741,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Zoom"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Zoom"
           }
         },
@@ -2084,6 +2768,12 @@
             "value" : "Easydict"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Easydict"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2102,6 +2792,12 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"显示迷你窗口\"; ObjectID = \"PmP-cO-1HF\";",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Mini Window"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Show Mini Window"
@@ -2131,6 +2827,12 @@
             "value" : "Help"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Help"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2149,6 +2851,12 @@
             "value" : "Help"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Help"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2161,6 +2869,12 @@
       "comment" : "Class = \"NSMenu\"; title = \"帮助\"; ObjectID = \"Q2R-dF-dyU\";",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Help"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Help"
@@ -2190,6 +2904,12 @@
             "value" : "Show All"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show All"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2205,6 +2925,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Writing Direction"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Writing Direction"
           }
         },
@@ -2226,6 +2952,12 @@
             "value" : "Services"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Services"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2241,6 +2973,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Open in Google"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Open in Google"
           }
         },
@@ -2262,6 +3000,12 @@
             "value" : "Google"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Google"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2277,6 +3021,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Substitutions"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Substitutions"
           }
         },
@@ -2298,6 +3048,12 @@
             "value" : "New"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2313,6 +3069,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Tighten"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Tighten"
           }
         },
@@ -2334,6 +3096,12 @@
             "value" : "Transformations"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Transformations"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2349,6 +3117,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Selection"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Selection"
           }
         },
@@ -2370,6 +3144,12 @@
             "value" : "Loosen"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loosen"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2385,6 +3165,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Correct Spelling Automatically"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Correct Spelling Automatically"
           }
         },
@@ -2406,6 +3192,12 @@
             "value" : "Make Upper Case"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Make Upper Case"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2421,6 +3213,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Clear Input"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Clear Input"
           }
         },
@@ -2442,6 +3240,12 @@
             "value" : "\tRight to Left"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\tRight to Left"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2457,6 +3261,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Data Detectors"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Data Detectors"
           }
         },
@@ -2478,6 +3288,12 @@
             "value" : "Hide Others"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide Others"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2493,6 +3309,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Raise"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Raise"
           }
         },
@@ -2514,6 +3336,12 @@
             "value" : "Bring All to Front"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bring All to Front"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2529,6 +3357,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Open in Eudic"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Open in Eudic"
           }
         },
@@ -2550,6 +3384,12 @@
             "value" : "Eudic"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eudic"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2565,6 +3405,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Bigger"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Bigger"
           }
         },
@@ -2586,6 +3432,12 @@
             "value" : "Text"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2601,6 +3453,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "View"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "View"
           }
         },
@@ -2622,6 +3480,12 @@
             "value" : "Align Left"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Align Left"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2637,6 +3501,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Text"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Text"
           }
         },
@@ -2658,6 +3528,12 @@
             "value" : "Open Recent"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Recent"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2673,6 +3549,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Minimize"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Minimize"
           }
         },
@@ -2694,6 +3576,12 @@
             "value" : "Use Selection for Find"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Selection for Find"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2709,6 +3597,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "\tLeft to Right"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "\tLeft to Right"
           }
         },
@@ -2730,6 +3624,12 @@
             "value" : "Bold"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bold"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2745,6 +3645,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Make Lower Case"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Make Lower Case"
           }
         },
@@ -2766,6 +3672,12 @@
             "value" : "Settings…"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings…"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2778,6 +3690,12 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"导出日志\"; ObjectID = \"XpX-Ud-znp\";",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export Log"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Export Log"
@@ -2807,6 +3725,12 @@
             "value" : "Align Right"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Align Right"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2822,6 +3746,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Use None"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Use None"
           }
         },
@@ -2843,6 +3773,12 @@
             "value" : "Paste and Match Style"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paste and Match Style"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2858,6 +3794,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Speech"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Speech"
           }
         },
@@ -2879,6 +3821,12 @@
             "value" : "Select All"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select All"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2894,6 +3842,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Edit"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Edit"
           }
         },
@@ -2915,6 +3869,12 @@
             "value" : "Shortcut"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shortcut"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2930,6 +3890,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Check Document Now"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Check Document Now"
           }
         },
@@ -2951,6 +3917,12 @@
             "value" : "Easydict Help"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Easydict Help"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2963,6 +3935,12 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"反馈问题\"; ObjectID = \"yWr-rH-hQa\";",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feedback"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Feedback"
@@ -2992,6 +3970,12 @@
             "value" : "Baseline"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Baseline"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3007,6 +3991,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Find…"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Find…"
           }
         },

@@ -10,6 +10,12 @@
             "value" : "About"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32,6 +38,12 @@
             "value" : "Adjust Query Icon Position:"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adjust Query Icon Position:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -49,6 +61,12 @@
     "Alignment Error" : {
       "comment" : "Error description",
       "localizations" : {
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alignment Error"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -66,6 +84,12 @@
     "allow_collect_analytics" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allow collection of analytics"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Allow collection of analytics"
@@ -93,6 +117,12 @@
             "value" : "Allow collection of crash logs"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allow collection of crash logs"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -115,6 +145,12 @@
             "value" : "Analytics:"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Analytics:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -132,6 +168,12 @@
     "Apple" : {
       "extractionState" : "manual",
       "localizations" : {
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -149,6 +191,12 @@
     "apple_dictionary" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Dictionary"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Apple Dictionary"
@@ -176,6 +224,12 @@
             "value" : "Apple Translation"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Translation"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -193,6 +247,12 @@
     "author" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Developer:"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Developer:"
@@ -220,6 +280,12 @@
             "value" : "Automatically check for application updates"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatically check for application updates"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -237,6 +303,12 @@
     "auto_copy_first_translated_text" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto copy first translated text"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Auto copy first translated text"
@@ -264,6 +336,12 @@
             "value" : "Auto copy OCR text after OCR"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto copy OCR text after OCR"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -281,6 +359,12 @@
     "auto_copy_selected_text" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto copy selected text"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Auto copy selected text"
@@ -308,6 +392,12 @@
             "value" : "Auto Copy:"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto Copy:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -325,6 +415,12 @@
     "auto_get_selected_text" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto Get Selected Text:"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Auto Get Selected Text:"
@@ -352,6 +448,12 @@
             "value" : "Auto play pronunciation after querying English words"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto play pronunciation after querying English words"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -369,6 +471,12 @@
     "auto_query" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto Query:"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Auto Query:"
@@ -396,6 +504,12 @@
             "value" : "Auto query after OCR"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto query after OCR"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -413,6 +527,12 @@
     "auto_query_pasted_text" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto query after pasting text"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Auto query after pasting text"
@@ -440,6 +560,12 @@
             "value" : "Auto query after selecting text"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto query after selecting text"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -457,6 +583,12 @@
     "auto_show_query_icon" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto show query icon after selecting text"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Auto show query icon after selecting text"
@@ -484,6 +616,12 @@
             "value" : "Avoid conflict with PopClip"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avoid conflict with PopClip"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -501,6 +639,12 @@
     "Baidu" : {
       "extractionState" : "manual",
       "localizations" : {
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Baidu"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -518,6 +662,12 @@
     "baidu_translate" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Baidu Translate"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Baidu Translate"
@@ -545,6 +695,12 @@
             "value" : "Bing Translate"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bing Translate"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -562,6 +718,12 @@
     "Buffer Too Small" : {
       "comment" : "Error description",
       "localizations" : {
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buffer Too Small"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -579,6 +741,12 @@
     "cancel" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancel"
@@ -606,6 +774,12 @@
             "value" : "Pronunciation"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pronunciation"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -623,6 +797,12 @@
     "clear_all" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear All"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Clear All"
@@ -650,6 +830,12 @@
             "value" : "Clear Input:"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear Input:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -667,6 +853,12 @@
     "clear_input_when_translating" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear input when translating"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Clear input when translating"
@@ -694,6 +886,12 @@
             "value" : "Click to Query:"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Click to Query:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -711,6 +909,12 @@
     "click_icon_query_info" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Query only when clicking query icon (When main window hidden)"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Query only when clicking query icon (When main window hidden)"
@@ -738,6 +942,12 @@
             "value" : "Comparative"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comparative"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -755,6 +965,12 @@
     "copy_text" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy Text"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Copy Text"
@@ -782,6 +998,12 @@
             "value" : "Crash Log:"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crash Log:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -804,6 +1026,12 @@
             "value" : "Version"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -821,6 +1049,12 @@
     "Decode Error" : {
       "comment" : "Error description",
       "localizations" : {
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Decode Error"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -843,6 +1077,12 @@
             "value" : "DeepL Translate"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DeepL Translate"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -860,6 +1100,12 @@
     "default_tts_service" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Default TTS Service:"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Default TTS Service:"
@@ -888,6 +1134,12 @@
             "value" : "Detected "
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detected "
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -905,6 +1157,12 @@
     "disable_crash_log_warning" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚠️ Note: If you disable this option, Easydict will not be able to get the crash logs of the application, which may cause the bugs of the application to be unable to be fixed in time."
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "⚠️ Note: If you disable this option, Easydict will not be able to get the crash logs of the application, which may cause the bugs of the application to be unable to be fixed in time."
@@ -932,6 +1190,12 @@
             "value" : "Disable Empty Copy Beep:"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disable Empty Copy Beep:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -949,6 +1213,12 @@
     "disable_empty_copy_beep_msg" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activated when selected text is empty"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Activated when selected text is empty"
@@ -977,6 +1247,12 @@
             "value" : "Disabled"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disabled"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -994,6 +1270,12 @@
     "disabled_title" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If the App is in the \"Disabled App List\", the mouse will not trigger the automatic word retrieval."
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "If the App is in the \"Disabled App List\", the mouse will not trigger the automatic word retrieval."
@@ -1021,6 +1303,12 @@
             "value" : "First and second languages cannot be the same"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "First and second languages cannot be the same"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1043,6 +1331,12 @@
             "value" : "Interface Exception"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Interface Exception"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1060,6 +1354,12 @@
     "error_network" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Network Exception"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Network Exception"
@@ -1088,6 +1388,12 @@
             "value" : "Parameter Exception"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parameter Exception"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1105,6 +1411,12 @@
     "error_unknown" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown Error"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unknown Error"
@@ -1132,6 +1444,12 @@
             "value" : "Unsupported Language"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unsupported Language"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1149,6 +1467,12 @@
     "etymology" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Etymology:"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Etymology:"
@@ -1176,6 +1500,12 @@
             "value" : "Explanation:"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explanation:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1193,6 +1523,12 @@
     "Failed to allocate memory" : {
       "comment" : "Error reason",
       "localizations" : {
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Failed to allocate memory"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -1210,6 +1546,12 @@
     "first_language" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "First Language:"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "First Language:"
@@ -1237,6 +1579,12 @@
             "value" : "Fixed float window"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fixed float window"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1254,6 +1602,12 @@
     "fixed_window_position" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Floating Window Position:"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Floating Window Position:"
@@ -1281,6 +1635,12 @@
             "value" : "Center of screen"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Centre of screen"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1298,6 +1658,12 @@
     "fixed_window_position_former" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Last position"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Last position"
@@ -1325,6 +1691,12 @@
             "value" : "Mouse position"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mouse position"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1342,6 +1714,12 @@
     "fixed_window_position_right" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Right side of screen"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Right side of screen"
@@ -1369,6 +1747,12 @@
             "value" : "Force get selected text when auto get selected text failed (Experimental)"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Force get selected text when auto get selected text failed (Experimental)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1386,6 +1770,12 @@
     "force_auto_get_selected_text_msg" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Note: In some applications, forced word retrieval may cause empty copy prompt tones, abnormal clipboard content, etc."
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Note: In some applications, forced word retrieval may cause empty copy prompt tones, abnormal clipboard content, etc."
@@ -1413,6 +1803,12 @@
             "value" : "Force Auto Get Selected Text"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Force Auto Get Selected Text"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1430,6 +1826,12 @@
     "Function not implemented for the current algorithm" : {
       "comment" : "Error reason",
       "localizations" : {
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Function not implemented for the current algorithm"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -1446,6 +1848,12 @@
     },
     "GitHub:" : {
       "localizations" : {
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GitHub:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1463,6 +1871,12 @@
     "google_translate" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Google Translate"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Google Translate"
@@ -1490,6 +1904,12 @@
             "value" : "Hide"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1507,6 +1927,12 @@
     "hide_main_window" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide main window at startup"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hide main window at startup"
@@ -1534,6 +1960,12 @@
             "value" : "Hide Menu Bar Icon"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide Menu Bar Icon"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1556,6 +1988,12 @@
             "value" : "If you need to restore, open the settings page in the query window using the shortcut `Cmd + ,`, then cancel the [Hide Status Bar Icon] option."
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If you need to restore, open the settings page in the query window using the shortcut `Cmd + ,`, then cancel the [Hide Status Bar Icon] option."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1573,6 +2011,12 @@
     "Illegal parameter supplied to encryption/decryption algorithm" : {
       "comment" : "Error reason",
       "localizations" : {
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Illegal parameter supplied to encryption/decryption algorithm"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -1590,6 +2034,12 @@
     "Input data did not decode or decrypt correctly" : {
       "comment" : "Error reason",
       "localizations" : {
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Input data did not decode or decrypt correctly"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -1607,6 +2057,12 @@
     "Input size to encryption algorithm was not aligned correctly" : {
       "comment" : "Error reason",
       "localizations" : {
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Input size to encryption algorithm was not aligned correctly"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -1629,6 +2085,12 @@
             "value" : "Input Translate:"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Input Translate:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1646,6 +2108,12 @@
     "Insufficient buffer provided for specified operation" : {
       "comment" : "Error reason",
       "localizations" : {
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insufficient buffer provided for specified operation"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -1663,6 +2131,12 @@
     "language_detect_optimize" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Language Detection:"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Language Detection:"
@@ -1690,6 +2164,12 @@
             "value" : "Use Baidu language detection for optimization"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Baidu language detection for optimization"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1707,6 +2187,12 @@
     "language_detect_optimize_google" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Google language detection for optimization"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Use Google language detection for optimization"
@@ -1734,6 +2220,12 @@
             "value" : "Only use System language detection"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Only use System language detection"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1751,6 +2243,12 @@
     "lastest_version" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Latest version"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Latest version"
@@ -1778,6 +2276,12 @@
             "value" : "Launch:"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Launch:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1795,6 +2299,12 @@
     "launch_at_startup" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Launch at login"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Launch at login"
@@ -1822,6 +2332,12 @@
             "value" : "Main window"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Main window"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1839,6 +2355,12 @@
     "Memory Failure" : {
       "comment" : "Error description",
       "localizations" : {
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Memory Failure"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -1856,6 +2378,12 @@
     "menu_bar_icon" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menu bar icon:"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Menu bar icon:"
@@ -1883,6 +2411,12 @@
             "value" : "Mini window"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mini window"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1900,6 +2434,12 @@
     "mouse_select_translate_window_type" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mouse  Window Type:"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mouse  Window Type:"
@@ -1927,6 +2467,12 @@
             "value" : "⚠ No results found"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚠ No results found"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1944,6 +2490,12 @@
     "ocr_result_is_empty" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚠️ OCR result is empty.\n⚠️ Please manually select language and try again."
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "⚠️ OCR result is empty.\n⚠️ Please manually select language and try again."
@@ -1971,6 +2523,12 @@
             "value" : "Ok"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ok"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1988,6 +2546,12 @@
     "open_in_apple_dictionary" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open in Apple Dictionary"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Open in Apple Dictionary"
@@ -2015,6 +2579,12 @@
             "value" : "Open in Eudic"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open in Eudic"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2032,6 +2602,12 @@
     "open_in_google" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open in Google"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Open in Google"
@@ -2059,6 +2635,12 @@
             "value" : "Open Web Link"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Web Link"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2081,6 +2663,12 @@
             "value" : "OpenAI Translate"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OpenAI Translate"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2098,6 +2686,12 @@
     "Parameter Error" : {
       "comment" : "Error description",
       "localizations" : {
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parameter Error"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -2115,6 +2709,12 @@
     "past" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Past tense"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Past tense"
@@ -2142,6 +2742,12 @@
             "value" : "Past participle"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Past participle"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2159,6 +2765,12 @@
     "pin" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pin"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pin"
@@ -2186,6 +2798,12 @@
             "value" : "`Enter` to query, `Shift + Enter` to newline"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "`Enter` to query, `Shift + Enter` to newline"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2203,6 +2821,12 @@
     "play_audio" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Play Audio"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Play Audio"
@@ -2230,6 +2854,12 @@
             "value" : "Play Word Pronunciation:"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Play Word Pronunciation:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2247,6 +2877,12 @@
     "please_look" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please see 👉"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Please see 👉"
@@ -2274,6 +2910,12 @@
             "value" : "Plural"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plural"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2291,6 +2933,12 @@
     "present_participle" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Present participle"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Present participle"
@@ -2319,6 +2967,12 @@
             "value" : "Privacy"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2336,6 +2990,12 @@
     "privacy_statement" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy Statement"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Privacy Statement"
@@ -2363,6 +3023,12 @@
             "value" : "Easydict uses AppCenter and Firebase to collect crash logs (for bug fixes) and anonymous analytics data, but these data will not be associated with your identity, only for improving user experience, and will never be shared with other platforms.\n\nEasydict is open source software, if you are interested, you can check the code."
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Easydict uses AppCenter and Firebase to collect crash logs (for bug fixes) and anonymous analytics data, but these data will not be associated with your identity, only for improving user experience, and will never be shared with other platforms.\n\nEasydict is open source software, if you are interested, you can check the code."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2380,6 +3046,12 @@
     "query_failed" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Query failed"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Query failed"
@@ -2407,6 +3079,12 @@
             "value" : "Query in App"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Query in App"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2424,6 +3102,12 @@
     "quick_link" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quick Link:"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quick Link:"
@@ -2451,6 +3135,12 @@
             "value" : "Replace With Translation"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Replace With Translation"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -2468,6 +3158,12 @@
     "retry" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retry"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Retry"
@@ -2495,6 +3191,12 @@
             "value" : "Root"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Root"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2517,6 +3219,12 @@
             "value" : "Second Language:"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Second Language:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2534,6 +3242,12 @@
     "select_translate" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select Text Translate:"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Select Text Translate:"
@@ -2562,6 +3276,12 @@
             "value" : "Service"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Service"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2579,6 +3299,12 @@
     "setting_general" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "General"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "General"
@@ -2606,6 +3332,12 @@
             "value" : "Shortcut Window Type:"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shortcut Window Type:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2623,6 +3355,12 @@
     "show" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Show"
@@ -2650,6 +3388,12 @@
             "value" : "Show Apple Dictionary quick link icon"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Apple Dictionary quick link icon"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2667,6 +3411,12 @@
     "show_eudic_quick_link" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Eudic quick link icon (if installed)"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Show Eudic quick link icon (if installed)"
@@ -2694,6 +3444,12 @@
             "value" : "Show Google quick link icon"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Google quick link icon"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2711,6 +3467,12 @@
     "show_main_window" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Main Window:"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Main Window:"
@@ -2738,6 +3500,12 @@
             "value" : "Show Mini Window:"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Mini Window:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2755,6 +3523,12 @@
     "silent_screenshot_ocr" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Silent Screenshot OCR:"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Silent Screenshot OCR:"
@@ -2782,6 +3556,12 @@
             "value" : "Third person singular"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Third person singular"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2802,6 +3582,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Snip Translate:"
+          }
+        },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sinp Translate:"
           }
         },
         "zh-Hans" : {
@@ -2826,6 +3612,12 @@
             "value" : "Stop Playing Audio"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stop Playing Audio"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2843,6 +3635,12 @@
     "Success" : {
       "comment" : "Error description",
       "localizations" : {
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Success"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -2860,6 +3658,12 @@
     "superlative" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Superlative"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Superlative"
@@ -2887,6 +3691,12 @@
             "value" : "Tag:"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tag:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2904,6 +3714,12 @@
     "toggle_languages" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toggle Languages"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Toggle Languages"
@@ -2931,6 +3747,12 @@
             "value" : "UK:"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UK:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2948,6 +3770,12 @@
     "Unimplemented Function" : {
       "comment" : "Error description",
       "localizations" : {
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unimplemented Function"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -2965,6 +3793,12 @@
     "Unknown Error" : {
       "comment" : "Error description",
       "localizations" : {
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown Error"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -2982,6 +3816,12 @@
     "unpin" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unpin"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unpin"
@@ -3009,6 +3849,12 @@
             "value" : "US:"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "US:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3031,6 +3877,12 @@
             "value" : "Volcano Translate"
           }
         },
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Volcano Translate"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3048,6 +3900,12 @@
     "Youdao" : {
       "extractionState" : "manual",
       "localizations" : {
+        "en_CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Youdao"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3065,6 +3923,12 @@
     "youdao_dict" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Youdao Dictionary"
+          }
+        },
+        "en_CA" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Youdao Dictionary"
