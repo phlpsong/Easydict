@@ -69,6 +69,8 @@ static EZLanguageManager *_instance;
          
          Ref https://stackoverflow.com/a/4221416/8378840
          !!!: For Canadian English, AppleLanguages returns "en_CA", while [NSLocale preferredLanguages] returns "en-CA"
+         
+         Apple Docs: https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPInternational/LanguageandLocaleIDs/LanguageandLocaleIDs.html
          */
         
         NSArray<NSString *> *preferredLanguages = [NSLocale preferredLanguages];
@@ -83,8 +85,8 @@ static EZLanguageManager *_instance;
             // "zh-Hans-CN"
             NSDictionary *languageDic = [NSLocale componentsFromLocaleIdentifier:language];
             NSString *languageCode = [languageDic objectForKey:NSLocaleLanguageCode]; // zh
-            NSString *scriptCode = [languageDic objectForKey:NSLocaleScriptCode];     // Hans
-            //  NSString *countryCode = [languageDic objectForKey:NSLocaleCountryCode];   // CN
+            NSString *scriptCode = [languageDic objectForKey:NSLocaleScriptCode]; // Hans
+            //  NSString *countryCode = [languageDic objectForKey:NSLocaleCountryCode]; // CN
             
             NSString *languageScriptCode = languageCode;
             if (scriptCode) {
