@@ -1976,7 +1976,7 @@
 				Base,
 				"zh-Hans",
 				"zh-Hant",
-        en_CA,
+				en_CA,
 			);
 			mainGroup = C99EEB0F2385796700FEE666;
 			productRefGroup = C99EEB192385796700FEE666 /* Products */;
